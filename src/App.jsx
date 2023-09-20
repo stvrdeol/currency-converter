@@ -68,7 +68,7 @@ function App() {
           }}
           className="max-w-lg shadow-lg backdrop-blur-sm p-3 rounded-lg relative ">
           <h1 className="text-center text-white my-2 font-bold text-2xl ">
-            Currency Convertor
+            Currency Converter
           </h1>
           <Input
             label="From"
